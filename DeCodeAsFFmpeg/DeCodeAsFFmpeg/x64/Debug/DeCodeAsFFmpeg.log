@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(DeCodeAsFFmpeg.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  xdw_list.c
+c:\users\administrator\desktop\dll生成\decodeasffmpeg\utils\xdw_list.c(371): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  xdw_lock.c
+c:\users\administrator\desktop\dll生成\decodeasffmpeg\utils\xdw_lock.c(53): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  正在生成代码...

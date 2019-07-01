@@ -1,0 +1,73 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  verify.c
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fixedint.h(26): warning C4142: "uint32_t": 类型的良性重定义
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\crypto\os_port.h(115): note: 参见“uint32_t”的声明
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fixedint.h(37): warning C4142: "int32_t": 类型的良性重定义
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\crypto\os_port.h(116): note: 参见“int32_t”的声明
+  sign.c
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fixedint.h(26): warning C4142: "uint32_t": 类型的良性重定义
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\crypto\os_port.h(115): note: 参见“uint32_t”的声明
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fixedint.h(37): warning C4142: "int32_t": 类型的良性重定义
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\crypto\os_port.h(116): note: 参见“int32_t”的声明
+  sha512.c
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\crypto\os_port.h(115): warning C4142: "uint32_t": 类型的良性重定义
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fixedint.h(26): note: 参见“uint32_t”的声明
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\crypto\os_port.h(116): warning C4142: "int32_t": 类型的良性重定义
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fixedint.h(37): note: 参见“int32_t”的声明
+  sha1.c
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\crypto\sha1.c(254): warning C4101: “ret”: 未引用的局部变量
+  seed.c
+  sc.c
+  rsapem.c
+  rsakey.c
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\mycrypt\stdint.h(162): warning C4005: “SIZE_MAX”: 宏重定义
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\limits.h(76): note: 参见“SIZE_MAX”的前一个定义
+  rc4.c
+  new_aes.c
+  md5.c
+  keypair.c
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fixedint.h(26): warning C4142: "uint32_t": 类型的良性重定义
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\crypto\os_port.h(115): note: 参见“uint32_t”的声明
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fixedint.h(37): warning C4142: "int32_t": 类型的良性重定义
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\crypto\os_port.h(116): note: 参见“int32_t”的声明
+  key_exchange.c
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fixedint.h(26): warning C4142: "uint32_t": 类型的良性重定义
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\crypto\os_port.h(115): note: 参见“uint32_t”的声明
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fixedint.h(37): warning C4142: "int32_t": 类型的良性重定义
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\crypto\os_port.h(116): note: 参见“int32_t”的声明
+  hmac.c
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fixedint.h(26): warning C4142: "uint32_t": 类型的良性重定义
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\crypto\os_port.h(115): note: 参见“uint32_t”的声明
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fixedint.h(37): warning C4142: "int32_t": 类型的良性重定义
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\crypto\os_port.h(116): note: 参见“int32_t”的声明
+  ge.c
+  fe.c
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fe.c(823): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fe.c(824): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fe.c(825): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fe.c(826): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fe.c(827): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fe.c(828): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fe.c(829): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fe.c(830): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fe.c(831): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fe.c(832): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+  curve25519-donna.c
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\mycrypt\stdint.h(162): warning C4005: “SIZE_MAX”: 宏重定义
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\limits.h(76): note: 参见“SIZE_MAX”的前一个定义
+  bigint.c
+  base64.c
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\crypto\base64.c(75): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(338): note: 参见“strncpy”的声明
+  aes.c
+  正在生成代码...
+  正在编译...
+  add_scalar.c
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fixedint.h(26): warning C4142: "uint32_t": 类型的良性重定义
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\crypto\os_port.h(115): note: 参见“uint32_t”的声明
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\ed25519\src\fixedint.h(37): warning C4142: "int32_t": 类型的良性重定义
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\mycrypt\mycrypt_win32\crypto\os_port.h(116): note: 参见“int32_t”的声明
+  正在生成代码...
+add_scalar.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+    正在创建库 E:\Airplay_desktop\dll生成\rls_Airplay\20190107\ck_AirPlay_9_26___rls(正式版)\MyCrypt\mycrypt_win32\Debug\mycrypt.lib 和对象 E:\Airplay_desktop\dll生成\rls_Airplay\20190107\ck_AirPlay_9_26___rls(正式版)\MyCrypt\mycrypt_win32\Debug\mycrypt.exp
+  mycrypt.vcxproj -> E:\Airplay_desktop\dll生成\rls_Airplay\20190107\ck_AirPlay_9_26___rls(正式版)\MyCrypt\mycrypt_win32\Debug\mycrypt.dll

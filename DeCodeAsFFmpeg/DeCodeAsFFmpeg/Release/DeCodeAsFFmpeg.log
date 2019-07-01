@@ -1,0 +1,33 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Release\)包含从另一个项目(DeCodeAsFFmpeg.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  xdw_list.c
+e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\utils\xdw_list.c(367): warning C4133: “=”: 从“xdw_list_head *”到“list_head *”的类型不兼容
+  xdw_lock.c
+  DeCodeAsFFmpeg.cpp
+e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\decodeasffmpeg\videosource.h(94): warning C4996: 'av_register_all': 被声明为已否决
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\include\libavformat\avformat.h(2025): note: 参见“av_register_all”的声明
+e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\decodeasffmpeg\videosource.h(147): warning C4099: “VideoSource”: 类型名称以前使用“struct”现在使用的是“class”
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\decodeasffmpeg\videosource.h(146): note: 参见“VideoSource”的声明
+e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\decodeasffmpeg\decodeasffmpeg.cpp(83): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+  VideoSource.cpp
+e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\decodeasffmpeg\videosource.h(94): warning C4996: 'av_register_all': 被声明为已否决
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\include\libavformat\avformat.h(2025): note: 参见“av_register_all”的声明
+e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\decodeasffmpeg\videosource.h(147): warning C4099: “VideoSource”: 类型名称以前使用“struct”现在使用的是“class”
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\decodeasffmpeg\videosource.h(146): note: 参见“VideoSource”的声明
+e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\decodeasffmpeg\videosource.cpp(64): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\decodeasffmpeg\videosource.cpp(120): warning C4018: “<”: 有符号/无符号不匹配
+e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\decodeasffmpeg\videosource.cpp(121): warning C4018: “<”: 有符号/无符号不匹配
+e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\decodeasffmpeg\videosource.cpp(243): warning C4996: 'avcodec_decode_video2': 被声明为已否决
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\include\libavcodec\avcodec.h(4755): note: 参见“avcodec_decode_video2”的声明
+e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\decodeasffmpeg\videosource.cpp(246): warning C4996: 'av_free_packet': 被声明为已否决
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\include\libavcodec\avcodec.h(4400): note: 参见“av_free_packet”的声明
+    正在创建库 E:\Airplay_desktop\dll生成\rls_Airplay\20190107\DeCodeAsFFmpeg\Release\IOSMirror.lib 和对象 E:\Airplay_desktop\dll生成\rls_Airplay\20190107\DeCodeAsFFmpeg\Release\IOSMirror.exp
+  正在生成代码
+e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\utils\xdw_lock.c(41): warning C4716: “xdw_mutex_unlock”: 必须返回一个值
+e:\airplay_desktop\dll生成\rls_airplay\20190107\decodeasffmpeg\utils\xdw_lock.c(31): warning C4716: “xdw_mutex_lock”: 必须返回一个值
+  All 64 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  DeCodeAsFFmpeg.vcxproj -> E:\Airplay_desktop\dll生成\rls_Airplay\20190107\DeCodeAsFFmpeg\Release\IOSMirror.dll

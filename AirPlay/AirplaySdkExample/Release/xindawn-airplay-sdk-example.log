@@ -1,0 +1,19 @@
+﻿  xdw_list.c
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\airplaysdkexample\utils\xdw_list.c(366): warning C4133: “=”: 从“xdw_list_head *”到“list_head *”的类型不兼容
+  xdw_lock.c
+  正在生成代码...
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\airplaysdkexample\utils\xdw_lock.c(31): warning C4716: “xdw_mutex_lock”: 必须返回一个值
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\airplaysdkexample\utils\xdw_lock.c(41): warning C4716: “xdw_mutex_unlock”: 必须返回一个值
+  VideoSource.cpp
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\airplaysdkexample\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\airplaysdkexample\videosource.h(92): warning C4996: 'av_register_all': 被声明为已否决
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\airplaysdkexample\include\libavformat\avformat.h(2025): note: 参见“av_register_all”的声明
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\airplaysdkexample\videosource.h(133): warning C4099: “VideoSource”: 类型名称以前使用“struct”现在使用的是“class”
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\airplaysdkexample\videosource.h(132): note: 参见“VideoSource”的声明
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\airplaysdkexample\videosource.cpp(103): warning C4018: “<”: 有符号/无符号不匹配
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\airplaysdkexample\videosource.cpp(104): warning C4018: “<”: 有符号/无符号不匹配
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\airplaysdkexample\videosource.cpp(239): warning C4996: 'avcodec_decode_video2': 被声明为已否决
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\airplaysdkexample\include\libavcodec\avcodec.h(4755): note: 参见“avcodec_decode_video2”的声明
+e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\airplaysdkexample\videosource.cpp(242): warning C4996: 'av_free_packet': 被声明为已否决
+  e:\airplay_desktop\dll生成\rls_airplay\20190107\ck_airplay_9_26___rls(正式版)\airplaysdkexample\include\libavcodec\avcodec.h(4400): note: 参见“av_free_packet”的声明
+LINK : fatal error LNK1181: 无法打开输入文件“airmediaserve.lib”

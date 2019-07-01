@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ClCompile Include="..\crypto\aes.c" />
+    <ClCompile Include="..\crypto\base64.c" />
+    <ClCompile Include="..\crypto\bigint.c" />
+    <ClCompile Include="..\crypto\hmac.c" />
+    <ClCompile Include="..\crypto\md5.c" />
+    <ClCompile Include="..\crypto\new_aes.c" />
+    <ClCompile Include="..\crypto\rc4.c" />
+    <ClCompile Include="..\crypto\rsakey.c" />
+    <ClCompile Include="..\crypto\rsapem.c" />
+    <ClCompile Include="..\crypto\sha1.c" />
+    <ClCompile Include="..\Curve25519\curve25519-donna.c" />
+    <ClCompile Include="..\Ed25519\src\add_scalar.c" />
+    <ClCompile Include="..\Ed25519\src\fe.c" />
+    <ClCompile Include="..\Ed25519\src\ge.c" />
+    <ClCompile Include="..\Ed25519\src\keypair.c" />
+    <ClCompile Include="..\Ed25519\src\key_exchange.c" />
+    <ClCompile Include="..\Ed25519\src\sc.c" />
+    <ClCompile Include="..\Ed25519\src\seed.c" />
+    <ClCompile Include="..\Ed25519\src\sha512.c" />
+    <ClCompile Include="..\Ed25519\src\sign.c" />
+    <ClCompile Include="..\Ed25519\src\verify.c" />
+    <ClCompile Include="stdafx.cpp" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{BD583B35-DCA1-4B3D-94C8-33A12482B343}</ProjectGuid>
+    <Keyword>MFCDLLProj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>15.0.27625.0</_ProjectFileVersion>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <None Include="mycrypt.def" />
+    <None Include="res\mycrypt.rc2" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="mycrypt.h" />
+    <ClInclude Include="resourceppc.h" />
+    <ClInclude Include="stdafx.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="mycryptppc.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
